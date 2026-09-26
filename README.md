@@ -6,4 +6,4 @@ Esse badge valida minha experiência na execução de operações de Criação, 
 
 ### 📜 Certificado
 
-[**🔗 Clique aqui para visualizar o certificado**](./certificado.pdf)
+[**🔗 Clique aqui para visualizar o certificado**](./certificado-dbskill.pdf)
